@@ -24,7 +24,7 @@ npm run dev
 
 - Open the `/src/index.html` file and replace:
 
-`<title>GDSC Portfolio</title>` with `<title>Your Name</title>`.
+`<title>Danish's Portfolio</title>` with `<title>Your Name</title>`.
 
 - Open the `/src/portfolio.js` file and make the necessary changes.
 
