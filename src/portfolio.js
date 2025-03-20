@@ -2,7 +2,7 @@
 
 // Header section - Defines basic website information
 const header = {
-  homepage: 'https://ddanish25.github.io', // URL for the homepage - !!! IMPORTANT: UPDATE THIS TO YOUR OFFICIAL WEBSITE LINK BEFORE DEPLOYING!!!!
+  homepage: 'https://ddanish25.github.io/web-portfolio/', // URL for the homepage - !!! IMPORTANT: UPDATE THIS TO YOUR OFFICIAL WEBSITE LINK BEFORE DEPLOYING!!!!
   title: 'WEB PORTFOLIO', // Title shown in left of the navigation bar
 }
 
