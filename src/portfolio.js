@@ -20,7 +20,7 @@ const about = {
 }
 
 // Projects section - keep same format per project [sourceCode: github, livePreivew: any link] [Uploading Images: /public/img - using it here follow format ( "./img/<img file>" ) ]
-/*const projects = [
+const projects = [
   {
     name: 'Code your Love',
     description:
@@ -46,7 +46,7 @@ const about = {
     livePreview: 'https://gdg.community.dev/events/details/google-gdg-on-campus-the-university-of-texas-at-dallas-richardson-united-states-presents-design-your-own-personal-website/',
     image: './img/portfolio.png',
   },
-]*/
+]
 
 // Skills section
 const skills = [
